@@ -12,7 +12,7 @@ const Answer = () => {
             </p>
             <p>
                 <h2>
-                    how does react work?
+                    How does react work?
                 </h2>
                 React is an efficient, and flexible,open-source, component-based front-end JavaScript library for building UIS,which is declarative.React always maintains a tree for us and it does efficient difficult computations on the nodes,react uses virtual DOM which is lightweight and more efficient than browser DOM.
                 React applications are made of multiple components, every component is responsible for rendering a bit, and these components acts as reusable pieces of of HTML. 
