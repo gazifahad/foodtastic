@@ -1,11 +1,11 @@
 import './App.css';
-import Shop from './components/Shop/Shop';
+import MyShop from './components/Shop/Shop';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to <span style={{"color":"rgb(211, 19, 83)"}}>Seafood</span> Shop</h1>
-      <Shop></Shop>
+      <h1>Greetings from <span style={{"color":"rgb(0,0,255)"}}>Food-tastic</span> Shop</h1>
+      <MyShop></MyShop>
     </div>
   );
 }

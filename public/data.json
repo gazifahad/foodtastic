@@ -1,14 +1,14 @@
 [
-    {"id": 123, "name":"grilled perawns", "price":500, "img":"https://media.gettyimages.com/photos/variation-of-grilled-prawns-and-salmon-with-fresh-lemon-picture-id864158424?s=2048x2048"},
-    {"id": 243, "name":"crabs", "price":60, "img":"https://media.gettyimages.com/photos/seafood-variety-picture-id183875021?k=20&m=183875021&s=612x612&w=0&h=wQ26o3Bva7FBQenk4vUQnjg87UX0iyKv8HQJei0vnPk="},
-    {"id": 334, "name":"Grilled salmon steak ", "price":70, "img":"https://media.gettyimages.com/photos/grilled-salmon-steak-on-a-plate-picture-id163137003?s=2048x2048"},
-    {"id": 424, "name":"Raw mackerel ", "price":100, "img":"https://media.gettyimages.com/photos/raw-mackerel-picture-id511530458?s=2048x2048"},
-    {"id": 554, "name":"Saltwater Eel Nigiri", "price":80, "img":"https://cdn.tasteatlas.com//images/dishes/88dc580cd7e04071a213634b1711279d.jpg?w=270&h=220"},
-    {"id": 667, "name":"spaghetti shrimps", "price":90, "img":"https://media.gettyimages.com/photos/spaghetti-with-shrimps-green-asparagus-tomato-pesto-and-parmesan-picture-id1023153626?s=2048x2048"},
-    {"id": 789, "name":"Ikayari", "price":120, "img":"https://cdn.tasteatlas.com//Images/Dishes/5008322955874e528bb7614ad41b4859.jpg?w=270&h=220"},
-    {"id": 890, "name":"salmon & vegetables", "price":100, "img":"https://media.gettyimages.com/photos/raw-fresh-delicious-salmon-and-vegetables-picture-id991965870?s=2048x2048"},
-    {"id": 934, "name":" Bacon Shrimp", "price":100, "img":"https://media.gettyimages.com/photos/delicious-ribeye-steak-and-bacon-wrapped-shrimp-on-a-flaming-hot-picture-id1214977558?s=2048x2048"},
-    {"id": 938, "name":"fish tacos", "price":100, "img":"https://media.gettyimages.com/photos/close-up-of-fish-tacos-on-a-plate-picture-id155277469?s=2048x2048"},
-    {"id": 984, "name":" Fried Calamari", "price":100, "img":"https://media.gettyimages.com/photos/delicious-plate-of-deep-fried-calamari-squid-fried-to-perfection-picture-id1270477276?s=2048x2048"},
-    {"id": 999, "name":"red snapper", "price":100, "img":"https://media.gettyimages.com/photos/whole-fried-red-snapper-picture-id155378193?s=2048x2048"}
+    {"id": 13, "name":"grilled perawns", "price":500, "img":"https://media.gettyimages.com/photos/variation-of-grilled-prawns-and-salmon-with-fresh-lemon-picture-id864158424?s=2048x2048"},
+    {"id": 43, "name":"crabs", "price":600, "img":"https://media.gettyimages.com/photos/seafood-variety-picture-id183875021?k=20&m=183875021&s=612x612&w=0&h=wQ26o3Bva7FBQenk4vUQnjg87UX0iyKv8HQJei0vnPk="},
+    {"id": 34, "name":"Grilled salmon steak ", "price":750, "img":"https://media.gettyimages.com/photos/grilled-salmon-steak-on-a-plate-picture-id163137003?s=2048x2048"},
+    {"id": 44, "name":"Raw mackerel ", "price":100, "img":"https://media.gettyimages.com/photos/raw-mackerel-picture-id511530458?s=2048x2048"},
+    {"id": 54, "name":"Saltwater Eel Nigiri", "price":800, "img":"https://cdn.tasteatlas.com//images/dishes/88dc580cd7e04071a213634b1711279d.jpg?w=270&h=220"},
+    {"id": 67, "name":"spaghetti shrimps", "price":950, "img":"https://media.gettyimages.com/photos/spaghetti-with-shrimps-green-asparagus-tomato-pesto-and-parmesan-picture-id1023153626?s=2048x2048"},
+    {"id": 89, "name":"Ikayari", "price":1220, "img":"https://cdn.tasteatlas.com//Images/Dishes/5008322955874e528bb7614ad41b4859.jpg?w=270&h=220"},
+    {"id": 90, "name":"salmon & vegetables", "price":1200, "img":"https://media.gettyimages.com/photos/raw-fresh-delicious-salmon-and-vegetables-picture-id991965870?s=2048x2048"},
+    {"id": 93, "name":" Bacon Shrimp", "price":1040, "img":"https://media.gettyimages.com/photos/delicious-ribeye-steak-and-bacon-wrapped-shrimp-on-a-flaming-hot-picture-id1214977558?s=2048x2048"},
+    {"id": 98, "name":"fish tacos", "price":1300, "img":"https://media.gettyimages.com/photos/close-up-of-fish-tacos-on-a-plate-picture-id155277469?s=2048x2048"},
+    {"id": 94, "name":" Fried Calamari", "price":900, "img":"https://media.gettyimages.com/photos/delicious-plate-of-deep-fried-calamari-squid-fried-to-perfection-picture-id1270477276?s=2048x2048"},
+    {"id": 99, "name":"red snapper", "price":2000, "img":"https://media.gettyimages.com/photos/whole-fried-red-snapper-picture-id155378193?s=2048x2048"}
 ]

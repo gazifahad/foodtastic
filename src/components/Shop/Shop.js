@@ -5,7 +5,7 @@ import Cart from '../Cart/Cart';
 import Seafood from '../Seafood/Seafood';
 import './Shop.css'
 
-const Shop = () => {
+const MyShop = () => {
     const [seafood, setSeafood] = useState([]);
     const [cart, setCart] = useState([]);    
 
@@ -40,7 +40,7 @@ const Shop = () => {
 
     return (
         <div>
-            <h3>Please choose <span style={{"color":"rgb(211, 19, 83)"}}>your favorite food</span> food!</h3>            
+            <h3>Select your <span style={{"color":"rgb(255,0,255)"}}>most favorite</span> food!</h3>            
             
             <div className='shop-container'>
                 <div className='food-container'>
@@ -49,16 +49,16 @@ const Shop = () => {
                 }
                 </div>
                 <div className='cart-container'>
-                    <h3 id='title'>Choose Items:</h3>
+                    <h3 id='title'>Choose Items &#8595; </h3>
                     {
                         cart.map(food => <Cart key={food.id} food={food}></Cart>)
                     }
-                    <button onClick={chooseOne} className='choose-btn'>Choose One For me <FontAwesomeIcon icon={faCheck} /></button>
-                    <button onClick={cleatCart} className='add-to-cart-btn'>Choose Again <FontAwesomeIcon icon={faClose} /></button>
+                    <button onClick={chooseOne} className='choose-btn'>Select One For me!<FontAwesomeIcon icon={faCheck} /></button>
+                    <button onClick={cleatCart} className='add-to-cart-btn'>Reset and Select Again <FontAwesomeIcon icon={faClose} /></button>
                 </div>
             </div>
         </div>
     );
 };
 
-export default Shop;
+export default MyShop;
