@@ -6,6 +6,7 @@
 
 .food-item img{
     border-radius: 5px;
+    width: 100%;
 }
 .food-name{
     color: rgb(211, 19, 83);

@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faCheck, faClose, faCross } from '@fortawesome/free-solid-svg-icons';
+import {faCheck, faClose } from '@fortawesome/free-solid-svg-icons';
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Seafood from '../Seafood/Seafood';
@@ -40,7 +40,7 @@ const Shop = () => {
 
     return (
         <div>
-            <h3>Please choose <span style={{"color":"rgb(211, 19, 83)"}}>your favorite</span> food!</h3>            
+            <h3>Please choose <span style={{"color":"rgb(211, 19, 83)"}}>your favorite food</span> food!</h3>            
             
             <div className='shop-container'>
                 <div className='food-container'>
