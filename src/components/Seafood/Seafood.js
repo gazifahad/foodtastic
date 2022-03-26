@@ -14,7 +14,7 @@ const Seafood = ({item, addToCart}) => {
                     <small>Food Id: {id}</small>
                     <h3 className='food-name'>{name}</h3>
                     <h4>Price: ${price}</h4>
-                    <button onClick={()=> addToCart(item)} className='add-to-cart-btn'>Add To cart <FontAwesomeIcon icon={faShoppingCart} /></button>
+                    <button onClick={()=> addToCart(item)} className='add-to-cart-btn'>Add To Cart <FontAwesomeIcon icon={faShoppingCart} /></button>
                 </div>
             </div>
         </div>
